@@ -1,2 +1,5 @@
-# volunteer_workshop
-Activities to be submitted.
+# Volunteer Workshop – C Program
+
+## Compile
+```bash
+gcc AIMLC.c -o AIMLC
